@@ -1,0 +1,30 @@
+This cat ate my slippers.
+
+This cat ate my slippers.
+
+similarity:  5.8626392154652756
+--------------------------------------
+This cat ate my slippers.
+
+This dog ate my slippers.
+
+similarity:  5.813560466584314
+--------------------------------------
+I fed my pet cat.
+
+I fed my pet cat.
+
+similarity:  6.994506799385715
+--------------------------------------
+I fed my pet cat.
+
+I fed my pet dog.
+
+similarity:  6.865713736007648
+--------------------------------------
+I fed my pet cat.
+
+I fed my pet animal.
+
+similarity:  6.976012802181387
+--------------------------------------

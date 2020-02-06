@@ -1,0 +1,66 @@
+He was watching television in the room.
+
+He was watching television in the room.
+
+similarity:  6.893135487850388
+--------------------------------------
+He was watching television in the room.
+
+Television was being watched in the room by him.
+
+similarity:  6.329651197427374
+--------------------------------------
+I fed my cat.
+
+I fed my cat.
+
+similarity:  6.824784082639619
+--------------------------------------
+I fed my cat.
+
+My cat was fed by me.
+
+similarity:  5.819067224243856
+--------------------------------------
+The duck walked up to the lemonade stand.
+
+The duck walked up to the lemonade stand.
+
+similarity:  6.509603700786657
+--------------------------------------
+The duck walked up to the lemonade stand.
+
+The lemonade stand was walked up to by the duck.
+
+similarity:  6.081502737831134
+--------------------------------------
+He spoke to the man running the stand.
+
+He spoke to the man running the stand.
+
+similarity:  6.504583300154491
+--------------------------------------
+He spoke to the man running the stand.
+
+The man running the stand was spoken to by him.
+
+similarity:  6.184616868735241
+--------------------------------------
+He spoke to the man running the stand.
+
+The man who was running the stand was spoken to by him.
+
+similarity:  6.149605673638722
+--------------------------------------
+The man running the stand was spoken to by him.
+
+The man running the stand was spoken to by him.
+
+similarity:  7.007365581969112
+--------------------------------------
+The man running the stand was spoken to by him.
+
+The man who was running the stand was spoken to by him.
+
+similarity:  6.9248170952165005
+--------------------------------------
